@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5744de16-c4e2-4b8c-98a2-888603018f8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YNh3Ed5FUVjILxPMHSodZeNZm9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3_lab_1_prog" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DimArraysCopyExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DimArraysCopyExamples" />
+      <module name="3_lab_2_prog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DimArraysCopyExamples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5744de16-c4e2-4b8c-98a2-888603018f8a" name="Default Changelist" comment="" />
+      <created>1582788757454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582788757454</updated>
+      <workItem from="1582788761688" duration="2897000" />
+      <workItem from="1583963510423" duration="1153000" />
+      <workItem from="1585506515712" duration="1489000" />
+      <workItem from="1585514689814" duration="28000" />
+      <workItem from="1585514733227" duration="592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Project_Structure" timestamp="1582788770056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1582788770056" />
+    <state x="100" y="100" width="1336" height="624" key="DiffContextDialog" timestamp="1585515034335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1336" height="624" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1585515034335" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1585507138125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585507138125" />
+    <state width="1478" height="207" key="GridCell.Tab.0.bottom" timestamp="1585515325433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585515325433" />
+    <state width="1478" height="207" key="GridCell.Tab.0.center" timestamp="1585515325433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585515325433" />
+    <state width="1478" height="207" key="GridCell.Tab.0.left" timestamp="1585515325433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585515325433" />
+    <state width="1478" height="207" key="GridCell.Tab.0.right" timestamp="1585515325433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585515325433" />
+    <state x="106" y="102" width="1336" height="622" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1585515040659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="106" y="102" width="1336" height="622" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1585515040659" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1583963542000">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583963542000" />
+    <state x="209" y="37" key="new project wizard" timestamp="1585507403709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="37" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585507403709" />
+  </component>
+</project>
