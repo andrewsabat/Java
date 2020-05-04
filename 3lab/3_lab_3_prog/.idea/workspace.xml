@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -21,10 +24,36 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../3_lab_1_prog" />
+  </component>
+  <component name="RunManager" selected="Application.AddressRunner">
+    <configuration name="Address" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Address" />
+      <module name="3_lab_3_prog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddressRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddressRunner" />
+      <module name="3_lab_3_prog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AddressRunner" />
+        <item itemvalue="Application.Address" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,6 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585507403758</updated>
       <workItem from="1585507407143" duration="7011000" />
+      <workItem from="1586341210129" duration="11730000" />
+      <workItem from="1588585819637" duration="12030000" />
     </task>
     <servers />
   </component>
@@ -44,17 +75,80 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="190" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1586348510264">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="190" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586348510264" />
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588593728008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1588593728008" />
+    <state width="457" height="466" key="DebuggerActiveHint" timestamp="1588589066649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="457" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1588589066649" />
     <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1585514366825">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585514366825" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1588598296558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588598296558" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1588598296557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588598296557" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1588598296557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588598296557" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1588598296558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588598296558" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1588593474729">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588593474729" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1588593474729">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588593474729" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1588593474729">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588593474729" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1588593474729">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588593474729" />
     <state x="94" y="100" width="1349" height="630" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585514372488">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="94" y="100" width="1349" height="630" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1585514372488" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586341213115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586341213115" />
+    <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588592348001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1588592348001" />
+    <state x="330" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586352470304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="330" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1586352470304" />
+    <state x="499" y="178" key="extract.method.dialog" timestamp="1588588913185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="178" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1588588913185" />
     <state x="418" y="37" key="new project wizard" timestamp="1585514086546">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="418" y="37" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585514086546" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/3_lab_3_prog$Address.ic" NAME="Address Coverage Results" MODIFIED="1588586579727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
